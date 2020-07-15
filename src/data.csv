@@ -1,0 +1,28 @@
+action,water
+toilet (per flush), 6
+low-flow toilet(per flush), 1.3
+shower (per minute), 3.8
+low-flow shower (per minute), 2.3
+faucet (per minute), 5
+low-flow faucet (per minute), 1.5
+coffee, 37
+tea, 9
+water, 0.125
+soda, 33
+wine, 31
+beer, 20
+egg, 36
+apple, 18
+orange, 13
+baked potato, 7
+cereal (with milk), 22
+hamburger, 634
+salad, 31
+beef (per pound), 1500
+chicken, 287
+bread (per slice), 11
+dish washing (by hand), 20
+dish washing (dishwasher), 4
+washing machine, 40
+(enery star) washing machine, 22
+bath, 35
